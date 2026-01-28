@@ -1,0 +1,14 @@
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\MCP-Demo\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\MCP-Demo\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\MCP-Demo\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\MCP-Demo\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\MCP-Demo\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\MCP-Demo\Calculator\obj\Debug\net10.0\ref\Calculator.dll
